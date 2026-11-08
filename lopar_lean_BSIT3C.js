@@ -3,7 +3,7 @@
 // ==========================================
 
 // 3 VARIABLES
-let studentName = "Lean Lopar";
+let studentName = "Rhealyn Lopar";
 let age = 20;
 let course = "BSIT";
 
