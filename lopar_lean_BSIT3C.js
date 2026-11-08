@@ -4,7 +4,7 @@
 
 // 3 VARIABLES
 let studentName = "Rhealyn Lopar";
-let age = 20;
+let age = 50;
 let course = "BSIT";
 
 // 3 ARRAYS
